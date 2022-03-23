@@ -20,7 +20,7 @@ export class HomeComponent implements OnInit {
 
       setTimeout(() => {
         this.loading = false;
-      }, 1000)
+      }, 500)
     });
   }
 

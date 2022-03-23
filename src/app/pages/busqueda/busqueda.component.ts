@@ -44,7 +44,7 @@ export class BusquedaComponent implements OnInit {
       
       setTimeout(()=> {
         this.loading = false;
-      }, 1000)
+      }, 500)
 
     });
 
